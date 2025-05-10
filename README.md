@@ -45,9 +45,7 @@ fir ye wali cmd run kar ke 20 se 30 mint intezaaar kara ke padhiye
 
 curl -s -X POST -H 'Content-Type: application/json' -d '{"jsonrpc":"2.0","method":"node_getL2Tips","params":[],"id":67}' http://localhost:8080 | jq -r '.result.proven.number'
 
-**8.**
-
-fir ye
+**8.** fir ye
 
 
 curl -s -X POST -H 'Content-Type: application/json' -d '{"jsonrpc":"2.0","method":"node_getArchiveSiblingPath","params":["block-number","block-number"],"id":67}' http://localhost:8080 | jq -r ".result"
