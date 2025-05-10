@@ -24,10 +24,10 @@ CRYPTO PRIVATE KA DADA
 
 
 **5.** Address wagairah dalne ke baad ab tum kahoge kounsa address niche jo link diye ha pahile jake oke acche se dekh baklool
+YE YOUTUBE KI LINK HA CMD SAMAJH KAR EKE MAT PASE KAR DEBE 
+JO PAHILA EKE DEKH BABU 
 
-
-
-                  https://youtu.be/H8TkdfjMNQY
+        https://youtu.be/H8TkdfjMNQY
 
 
 **6.** fir oo sab kara ke bad  hayee wali cmd dalbe check kara khatir ki node run hota ke naahi
